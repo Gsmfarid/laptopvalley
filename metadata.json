@@ -1,0 +1,8 @@
+{
+  "name": "Laptop Valley",
+  "description": "A premium retail platform for laptops, accessories, and professional tech services, featuring AI-powered product recommendations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
